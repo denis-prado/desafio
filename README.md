@@ -12,6 +12,8 @@
    
 `$ php artisan migrate;`
 
+`$ php artisan key:generate;`
+
 `$ php artisan tinker;`
 
 `$ \App\Models\User::create(['name' => 'Denis', 'email' => 'denis@gmail.com', 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi']);`
