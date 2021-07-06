@@ -20,6 +20,7 @@
 
 `$ php artisan serve;`
 
-
+### Documentação Api:
+https://documenter.getpostman.com/view/12720315/Tzm3nHA4
 
 
