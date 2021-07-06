@@ -25,4 +25,6 @@
 ### Documentação Api:
 https://documenter.getpostman.com/view/12720315/Tzm3nHA4
 
+### Logs:
+A cada interação com a api é gerado um log em /storage/logs/laravel.log
 
