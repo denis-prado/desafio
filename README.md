@@ -5,7 +5,7 @@
 ### Requisitos:
 > **Composer versão 2.0 **Laravel 8 **PHP 8.0
 
-## #Rodando o projeto:
+### Rodando o projeto:
 1. Clone o repositório
 2. Configure a base de dados no arquivo .env
 3. Execute os comandos na raiz do projeto.
